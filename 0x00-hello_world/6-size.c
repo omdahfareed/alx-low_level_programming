@@ -3,11 +3,10 @@
 /**
  * main - Entry point
  *
- * Description: A c program 
+ * Description: A c program
  *
  * Return: Always 0 (success)
 */
-
 int main(void)
 {
 	printf("Size of a char: %u byte(s)\n",sizeof(char));
