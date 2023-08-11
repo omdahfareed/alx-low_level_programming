@@ -22,6 +22,7 @@ int main(void)
 			{
 				putchat(digt1 + 48);
 				putchar(digt2 + 48);
+
 				if (digt1 + digt2 != 17)
 				{
 					putchar(',');
