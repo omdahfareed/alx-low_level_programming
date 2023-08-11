@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	int digt1 = 0 , digt2;
+	int digt1 = 0, digt2;
 
 	while (digt1 <= 9)
 	{
