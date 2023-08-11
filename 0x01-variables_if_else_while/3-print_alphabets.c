@@ -20,7 +20,7 @@ int main(void)
 	while (CH)
 	{
 		putchar(CH);
-		CH++
+		CH++;
 	}
 	putchar('\n');
 	return (0);
