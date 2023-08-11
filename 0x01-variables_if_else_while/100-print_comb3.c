@@ -20,8 +20,8 @@ int main(void)
 		{
 			if (digt1 != digt2 && digt1 < digt2)
 			{
-				putchat(digt1 + '48');
-				putchar(digt2 + '48');
+				putchat(digt1 + 48);
+				putchar(digt2 + 48);
 				if (digt1 + digt2 != 17)
 				{
 					putchar(',');
