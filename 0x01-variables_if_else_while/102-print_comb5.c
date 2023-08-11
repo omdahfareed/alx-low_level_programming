@@ -12,6 +12,7 @@ int main(void)
 {
 
 	int digt = 0, digt1;
+
 	while (digt <= 99)
 	{
 
