@@ -3,7 +3,7 @@
 /**
  * print_sign - function that prints the sign of a number.
  *
- * Description: A c program
+ * @n: take integer type input
  *
  * Return: 1 if n is greater than zero, 0  if n is zero, -1  if n is less than zero
 */
